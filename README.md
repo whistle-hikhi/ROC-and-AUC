@@ -11,7 +11,7 @@ The ROC curve is a graphical representation of a classification model's performa
 
   A ROC curve helps to visualize how well the model is distinguishing between positive and negative classes. A perfect classifier has a ROC curve that passes through the top-left corner, achiving a TPR of 1 and FPR of 0
 
-  ## AUC (Area Under the Curve):
+## AUC (Area Under the Curve):
   
   AUC represents the area under the ROC curve. It is a single scalar value that summarizes the performance of a classification model. The value of AUC ranges from 0 to 1:
   - AUC = 1: Perfect Classifier
